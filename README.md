@@ -23,3 +23,10 @@ Criminal record generally contains personal information about particular person 
 - [ ] Authentication
 - [ ] Retrieving the Images
 - [ ] Identifying the Images
+
+### UML Diagrams
+#### Use-Case (ADMINISTRATOR)
+![Administrator Use-Case](https://res.cloudinary.com/watermelon-apps-rjct/image/upload/v1557069146/Inmate%20Face%20Detecting%20System/Picture1.png)
+
+#### Use-Case (OPERATOR)
+![Operator Use-Case](https://res.cloudinary.com/watermelon-apps-rjct/image/upload/v1557069145/Inmate%20Face%20Detecting%20System/Picture2.png)
