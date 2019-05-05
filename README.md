@@ -8,18 +8,18 @@ Criminal record generally contains personal information about particular person 
 #### Module - 1
 ##### ADMINISTRATOR
 
-[ ] Authentication
-[ ] Insert Criminal Details
-[ ] Update Criminal Details
-[ ] Splitting Criminal Images
-[ ] Updating Criminal Images
-[ ] Insert Face Details
-[ ] Update Face Details
-[ ] Delete Images
+- [ ] Authentication
+- [ ] Insert Criminal Details
+- [ ] Update Criminal Details
+- [ ] Splitting Criminal Images
+- [ ] Updating Criminal Images
+- [ ] Insert Face Details
+- [ ] Update Face Details
+- [ ] Delete Images
 
 #### Module - 2
 ##### OPERATOR
 
-[ ] Authentication
-[ ] Retrieving the Images
-[ ] Identifying the Images
+- [ ] Authentication
+- [ ] Retrieving the Images
+- [ ] Identifying the Images
